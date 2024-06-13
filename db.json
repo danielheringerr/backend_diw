@@ -1,80 +1,44 @@
 {
-  "clientes": [
-    {
-      "id": 1,
-      "nome": "João da Silva",
-      "telefone": "123456789",
-      "endereco": "Rua dos Animais, 123"
-    },
-    {
-      "id": 2,
-      "nome": "Maria Souza",
-      "telefone": "987654321",
-      "endereco": "Avenida dos Pets, 456"
-    }
-  ],
-  "animais": [
-    {
-      "id": 1,
-      "nome": "Rex",
-      "especie": "Cachorro",
-      "raca": "Labrador",
-      "idade": 3,
-      "cliente_id": 1
-    },
-    {
-      "id": 2,
-      "nome": "Mimi",
-      "especie": "Gato",
-      "raca": "Siamês",
-      "idade": 2,
-      "cliente_id": 1
-    },
-    {
-      "id": 3,
-      "nome": "Lola",
-      "especie": "Cachorro",
-      "raca": "Poodle",
-      "idade": 5,
-      "cliente_id": 2
-    },
-    {
-      "id": 4,
-      "nome": "Nina",
-      "especie": "Gato",
-      "raca": "Persa",
-      "idade": 1,
-      "cliente_id": 2
-    }
-  ],
-  "produtos": [
-    {
-      "id": 1,
-      "nome": "Ração para cães",
-      "marca": "Premier",
-      "preco": 50.99,
-      "quantidade_estoque": 100
-    },
-    {
-      "id": 2,
-      "nome": "Areia sanitária para gatos",
-      "marca": "Chalesco",
-      "preco": 25.99,
-      "quantidade_estoque": 50
-    }
-  ],
-  "servicos": [
-    {
-      "id": 1,
-      "nome": "Banho e tosa",
-      "preco": 80.0,
-      "duracao_minutos": 120
-    },
-    {
-      "id": 2,
-      "nome": "Consulta veterinária",
-      "preco": 120.0,
-      "duracao_minutos": 60
-    }
-  ]
+    "colegas": [
+        {
+            "id": 1,
+            "nome": "Caio Martins",
+            "foto": "https://avatars.githubusercontent.com/u/164074716?v=4",
+            "github": "https://github.com/Ikaynm"
+        },
+        {
+            "id": 2,
+            "nome": "João Victor",
+            "foto": "https://avatars.githubusercontent.com/u/165699187?v=4",
+            "github": "https://github.com/JojoFB"
+        },
+        {
+            "id": 3,
+            "nome": "Vitor Mendonça",
+            "foto": "https://avatars.githubusercontent.com/u/148807690?v=4",
+            "github": "https://github.com/VitorMendoncaBraga"
+        }
+    ],
+
+    "sugeridos": [
+        {
+            "id": 4,
+            "foto_url": "https://www.htmlecsspro.com/uploads/images/2018/03/aplicando-estilos-css-1521410533.png"
+        },
+        {    "id": 5,
+            "foto_url": "https://arquivo.devmedia.com.br/noticias/devcast/devcast_formularios-em-html-5-conhecendo-e-usando_28579.jpg"
+        },
+        {
+            "id": 6,
+            "foto_url": "https://hermes.dio.me/articles/cover/a4b5221c-5d38-4f82-830e-78a655b87de6.jpg"
+        },
+        {
+            "id": 7,
+            "foto_url": "https://strapi.dhiwise.com/uploads/json_server_Main_Image_9de1102de2.webp?w=1920&q=75"
+        },
+        {
+            "id": 8,
+            "foto_url": "https://www.x-apps.com.br/static/e1304ecdcfd7a26cf59c59c659656d50/81b5d5ccae6f46829b4ab7a646a1c0b1.jpg"
+        }
+    ]
 }
