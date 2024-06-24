@@ -24,26 +24,31 @@
         {
             "id": 4,
             "tit": "CSS",
+            "url_cont": "https://developer.mozilla.org/pt-BR/docs/Web/CSS",
             "foto_url": "https://www.htmlecsspro.com/uploads/images/2018/03/aplicando-estilos-css-1521410533.png"
         },
         {    
             "id": 5,
             "tit": "HTML",
+            "url_cont": "https://developer.mozilla.org/pt-BR/docs/Web/HTML",
             "foto_url": "https://arquivo.devmedia.com.br/noticias/devcast/devcast_formularios-em-html-5-conhecendo-e-usando_28579.jpg"
         },
         {
             "id": 6,
             "tit": "JavaScript",
+            "url_cont": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
             "foto_url": "https://hermes.dio.me/articles/cover/a4b5221c-5d38-4f82-830e-78a655b87de6.jpg"
         },
         {
             "id": 7,
             "tit": "Json-server",
+            "url_cont": "https://www.npmjs.com/package/json-server",
             "foto_url": "https://strapi.dhiwise.com/uploads/json_server_Main_Image_9de1102de2.webp?w=1920&q=75"
         },
         {
             "id": 8,
             "tit": "PHP",
+            "url_cont": "https://www.w3schools.com/php/",
             "foto_url": "https://www.x-apps.com.br/static/e1304ecdcfd7a26cf59c59c659656d50/81b5d5ccae6f46829b4ab7a646a1c0b1.jpg"
         }
     ]
